@@ -5,4 +5,4 @@
 <p style='text-align:"center"'> "Building real projects" </p>
 
 ### 👋 Index:
-  - [Coding bootcamp testimonials slider](github.com/keilaviana/Frontend-Mentor)
+  - [Coding bootcamp testimonials slider](https://github.com/keilaviana/Frontend-Mentor/tree/master/coding-bootcamp-testimonials-slider-master)
