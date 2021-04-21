@@ -30,7 +30,7 @@ body{
 
 .info{
     margin: 50px;
-    width: 60%;
+    width: 568px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -41,7 +41,7 @@ body{
 
 .info h2{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 36px;
     color: white;
 }
 
@@ -52,12 +52,12 @@ body{
 .info p{
     margin-top: 30px;
     font-size: 15px;
-    color: hsla(0, 0%, 100%, 0.75);
+    color: #aaa;
 }
 
 .img{
-    width: 600px;
-    background: url("./images/image-header-desktop.jpg") no-repeat bottom center;
+    width: 537px;
+    background:linear-gradient(rgba(131, 23, 131, 0.473),rgba(116 33 116 / 53%)), url("./images/image-header-desktop.jpg") no-repeat bottom center;
     border-radius: 0 10px 10px 0;
 }
 
@@ -71,12 +71,15 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
+    font-weight: 13px;
+    color: #aaa;
 
 }
 
 .preview p span{
-    font-size: 25px;
+    font-size: 26px;
     font-weight: 700;
+    color: white;
 }
 
 .preview p + p{
