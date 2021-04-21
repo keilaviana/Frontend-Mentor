@@ -15,7 +15,6 @@ body{
 }
 
 .principalCard{
-    margin-top: 40px;
 
     background-color: hsl(244, 38%, 16%);
 
@@ -84,4 +83,26 @@ body{
 
 .preview p + p{
     margin-left: 40px;
+}
+
+/* MOBILE */
+
+@media (max-width: 1200px){
+    .principalCard{
+        width: 800px;
+    }
+}
+
+@media (max-width: 800px){
+    .principalCard{
+        flex-direction: column;
+        width: 500px;
+        height: 800px;
+    }
+
+    .img{
+        width: 100%;
+        height: auto;
+        background:linear-gradient(rgba(131, 23, 131, 0.473),rgba(116 33 116 / 53%)), url("./images/image-header-mobile.jpg") no-repeat bottom center;
+    }
 }
