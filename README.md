@@ -6,3 +6,4 @@
 
 ### 👋 Index:
   - [Coding bootcamp testimonials slider](https://github.com/keilaviana/Frontend-Mentor/tree/master/coding-bootcamp-testimonials-slider-master)
+  - [Stats Preview Card Component Main](https://github.com/keilaviana/Frontend-Mentor/tree/master/stats-preview-card-component-main)
