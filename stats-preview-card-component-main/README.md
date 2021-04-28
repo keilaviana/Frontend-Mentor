@@ -5,4 +5,3 @@
 ## For this project it was used:
  - [X] HTML
  - [X] CSS
- - [X] javascript
